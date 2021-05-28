@@ -1,3 +1,3 @@
 - 🔭 **Working:** [OxyGrant](https://github.com/Pen-Source/OxyGrant)
-- 🌱 **Learning:** Tensorflow/Keras
+- 🌱 **Learning:** Tensorflow/Keras, Jetpack Compose
 - 🎧 **Listening:** So Good They Can't Ignore You *(Audio book)*
